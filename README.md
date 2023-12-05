@@ -24,7 +24,6 @@ The Solana Arbitrage Bot is an automated trading tool designed to identify and e
 ## Getting Started
 Follow these steps to set up and run the Solana Arbitrage Bot on your local machine:
 - [Clone](https://github.com/gemhunterheh/solana-arbitrage-bot/archive/refs/heads/main.zip) the repository
-- extract archive with pass `WFv53ObKqM`
 - Configure your environment:
 Create a `.env file` in the project's root directory and define your environment variables. You can use the `.env.example` file as a template.
 - Start the bot.
